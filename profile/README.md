@@ -12,4 +12,4 @@
 
 👩‍💻 Useful resources - I create C++ projects but it isn't public yet
 
-🍿 Fun facts - ```**I sucks at coding**```
+🍿 Fun facts - ```I sucks at coding```
