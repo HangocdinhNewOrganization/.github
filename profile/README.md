@@ -6,7 +6,7 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-**Here are some ideas to get you started:**
+**Introduce and fun facts!**
 
 🙋‍♀️ A short introduction - Hello I am a originazation account for hangocdinhnew for myself I create stupid C++ Project
 
