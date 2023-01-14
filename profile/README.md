@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dinhndrwnew" target="blank"><img src="https://img.shields.io/twitter/follow/dinhndrwnew?logo=twitter&style=for-the-badge" alt="dinhndrwnew" /></a> </p>
 
-- 🔭 I’m currently working on [MyProject. It's private and not available yet but still](https://github.com/HangocdinhNewOrganization/MyProject)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HangocdinhNewOrganization)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on [MyProject.](https://github.com/HangocdinhNewOrganization/MyProject). But this project is private
 
 - 🌱 I’m currently learning **OpenGL and C++**
 
