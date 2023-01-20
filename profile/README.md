@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ha Ngoc Dinh (Organization)</h1>
-<h3 align="center">A fucking suck Developer</h3>
+<h3 align="center">A Organization for a stupid developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hangocdinhnew&label=Profile%20views&color=0e75b6&style=flat" alt="hangocdinhnew" /> </p>
 
